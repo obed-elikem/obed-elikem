@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Obed
+- 👀 I’m interested in software development
